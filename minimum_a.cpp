@@ -10,7 +10,7 @@ int minimum (int a, int b){
 		}
 	else
 	cout<< "the minimum is "<<a<<endl;
-	return minimum;
+	return 0;
 	}
 // main function
 int main(){
