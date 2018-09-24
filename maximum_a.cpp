@@ -10,7 +10,7 @@ int maximum (int a, int b){
 		}
 	else
 	cout<< "the maximum is "<<b<<endl;
-	return maximum;
+	return 0;
 	}
 // main function
 int main(){
